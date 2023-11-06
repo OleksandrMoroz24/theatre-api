@@ -1,4 +1,5 @@
 from django.test import TestCase
+
 from theatre.models import Actor
 from theatre.serializers import ActorSerializer
 
